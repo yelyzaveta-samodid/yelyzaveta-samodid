@@ -12,6 +12,8 @@ Tailwind CSS 🌈
 Bootstrap 🅱️
 Node.js 🚀
 Express 🛤️
+Postman 📬
+APIs 🌐
 
 I also love yoga and light calisthenics workouts 🧘‍♀️, and of course, cats! 🐱 
 I'm always eager to learn new things and collaborate on exciting projects. 
