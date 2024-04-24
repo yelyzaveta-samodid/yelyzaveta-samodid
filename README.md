@@ -3,17 +3,34 @@ I'm Yelyzaveta, a 23-year-old software engineering student from Ukraine 🇺🇦
 I have a passion for solving problems and creating innovative solutions. 
 Currently, I'm honing my skills in various technologies, including:
 
-JavaScript 💻
-Python 🐍
-HTML 🌐
-CSS 🎨
-Sass 💅
-Tailwind CSS 🌈
-Bootstrap 🅱️
-Node.js 🚀
-Express 🛤️
-Postman 📬
-APIs 🌐
+Technical Skills:
+
+💻 JavaScript
+🐍 Python
+🌐 HTML
+🎨 CSS
+💅 Sass
+🌈 Tailwind CSS
+🅱️ Bootstrap
+🚀 Node.js
+🛤️ Express
+📬 Postman
+🌐 APIs
+
+Additional Technical Skills:
+
+📡 Fetch API
+🌐 RESTful API Design
+🧪 Unit Testing (Jest)
+🛠️ Webpack
+🍃 MongoDB
+
+Language Skills:
+
+🇬🇧 Fluent in English
+🇺🇦 Fluent in Ukrainian
+🇷🇺 Fluent in Russian
+🇮🇱 Limited proficiency in Hebrew
 
 I also love yoga and light calisthenics workouts 🧘‍♀️, and of course, cats! 🐱 
 I'm always eager to learn new things and collaborate on exciting projects. 
