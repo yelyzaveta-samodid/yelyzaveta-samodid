@@ -1,6 +1,6 @@
 Hi there! 👋
 I'm Yelyzaveta, a 23-year-old software engineering student from Ukraine 🇺🇦. 
-I have a passion for solving problems and creating innovative solutions. 
+My passion lies in harnessing the power of automation to streamline development processes and ensure code quality. 🚀 Excited about the future of test automation and its impact on software development.
 Currently, I'm honing my skills in various technologies, including:
 
 Technical Skills:
