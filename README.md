@@ -29,7 +29,7 @@ Language Skills:
 
 🇬🇧 Fluent in English
 🇺🇦 Fluent in Ukrainian
-🇷🇺 Fluent in Russian
+| Fluent in Russian
 🇮🇱 Limited proficiency in Hebrew
 
 I also love yoga and light calisthenics workouts 🧘‍♀️, and of course, cats! 🐱 
