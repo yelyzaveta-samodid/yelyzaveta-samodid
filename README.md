@@ -11,19 +11,17 @@ Technical Skills:
 🎨 CSS
 💅 Sass
 🌈 Tailwind CSS
-🅱️ Bootstrap
 🚀 Node.js
 🛤️ Express
 📬 Postman
-🌐 APIs
+🅲 C
 
 Additional Technical Skills:
 
 📡 Fetch API
-🌐 RESTful API Design
+🌐 RESTful API 
 🧪 Unit Testing (Jest)
 🛠️ Webpack
-🍃 MongoDB
 
 Language Skills:
 
